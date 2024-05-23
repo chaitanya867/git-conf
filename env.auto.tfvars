@@ -8,9 +8,9 @@ instance_labels = {
     }
     network_tags = []
     
-    vm_deletion_protect = false
+    vm_deletion_protect = true
     internal_ip         = ""
-    enable_external_ip  = false
+    enable_external_ip  = truw
     boot_disk0_info = {
       disk_size_gb = 50
       disk_type    = "pd-standard"
