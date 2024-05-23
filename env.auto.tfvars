@@ -14,7 +14,7 @@ instance_labels = {
     boot_disk0_info = {
       disk_size_gb = 60
       disk_type    = "pd-standard"
-      auto_delete  = false
+      auto_delete  = true
     }
 
     data_disk_info = {
