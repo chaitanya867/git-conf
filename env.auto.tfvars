@@ -12,7 +12,7 @@ instance_labels = {
     internal_ip         = ""
     enable_external_ip  = truw
     boot_disk0_info = {
-      disk_size_gb = 50
+      disk_size_gb = 60
       disk_type    = "pd-standard"
       auto_delete  = false
     }
